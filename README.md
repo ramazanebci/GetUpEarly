@@ -1,6 +1,5 @@
 # 早起打卡
 Android APP
-
 [![GitHub stars](https://img.shields.io/github/stars/itning/GetUpEarly.svg?style=social&label=Stars)](https://github.com/itning/GetUpEarly/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/itning/GetUpEarly.svg?style=social&label=Fork)](https://github.com/itning/GetUpEarly/network/members)
 [![GitHub watchers](https://img.shields.io/github/watchers/itning/GetUpEarly.svg?style=social&label=Watch)](https://github.com/itning/GetUpEarly/watchers)
